@@ -2,4 +2,4 @@ FROM almalinux:9
 ENV NAME="ANUDEEP" \
     PLACE="HYDERABAD" \
     DURATION="12HRS" 
-CMD ["sleep" ,"1000;"]
+CMD ["sleep" ,"1000"]
