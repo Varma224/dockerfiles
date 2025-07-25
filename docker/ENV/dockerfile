@@ -1,5 +1,5 @@
 FROM almalinux:9
 ENV NAME="ANUDEEP" \
     PLACE="HYDERABAD" \
-    DURATION= "12HRS" \
+    DURATION="12HRS" \
     
