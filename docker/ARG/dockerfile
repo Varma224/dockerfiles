@@ -1,6 +1,6 @@
 FROM almalinux:9
 ENV from="Vizag" \
-    to="Hyderabad" \
+    to="Hyderabad" 
 ARG duration="16HRS"
 RUN echo "Hi, Source is: ${from}, Destination is: ${to}, Duration is: ${duration}"
 CMD ["sleep", "1000"]
